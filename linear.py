@@ -6,3 +6,4 @@ import pandas as pd
 
 df = pd.DataFrame(load_boston().data, columns=load_boston().feature_names)
 print(df.head())
+df.summary()
