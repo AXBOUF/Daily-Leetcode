@@ -1,4 +1,4 @@
-# 🧠 LeetCode Grind – Munal Codes Daily
+# 🧠 LeetCode Grind – Codes Daily
 
 Welcome to my LeetCode grind repo!  
 This is my personal journey to sharpen problem-solving skills one day at a time.
@@ -37,5 +37,5 @@ I'm open to learning and improving collaboratively 🚀
 
 ---
 
-## ✅ Sample Structure
+
 
