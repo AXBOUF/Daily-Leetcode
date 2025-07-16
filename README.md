@@ -5,17 +5,15 @@ LeetCode grind repo!
 
 ## 📂 You'll Find
 
-- Solved LeetCode problems, organized by topic or difficulty
-- Clean Python solutions
-- My learning process in public
+My thought process of solving the problem.
+Doesnot need to be best optimal solutions just tracking my thinking and abstraction of problem solving.
 
 Each file in the repo contains its own solution.
 ---
 
 ## 🧪 Contributions
 
-If you spot improvements or want to suggest better solutions, feel free to open a **Pull Request**.  
-I'm open to learning and improving collaboratively 
+If you want to do sth you are free for it.
 
 ---
 
