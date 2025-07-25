@@ -22,3 +22,6 @@ def isValid(s):
         return False
 
 
+#keeping updated having hard time to make it simpe style
+
+
