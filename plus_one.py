@@ -16,3 +16,4 @@ def plusOne(self, digits):
 #! the code is not optimized for the case when it is 9 and we need to update the whole set 
 # [9] given the input --> new output will be [1,0]  or given the set [2,9,9,9,9] the set will affect the whole set making it [3,0,0,0,0]
 # another case will be updating the [2,0,9,8,9] that gives [2,0,9,9,0] affecting only the line ahead of it.
+#seeking for a simple data type rather than making a stack there are many refrence reagarding stack approach but the solution i am looking for is more radical.
